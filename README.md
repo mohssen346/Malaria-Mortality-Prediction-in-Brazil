@@ -30,7 +30,7 @@ The data is stored in the `Data/` directory and includes Excel files for:
 - Building surface area (`Building_surface_area.xlsx`).
 - Gross Domestic Product (`GDP.xlsx`).
 - Subnational unit data with deaths and clinical cases (`Subnational Unit-data_Edit_1.xlsx`).
-- Microregions mapping (`111111.xlsx`).
+- Microregions mapping (`Microregions mapping.xlsx`).
 - Environmental metrics: Precipitation, Temperature (min/max/mean), Wind Speed, Relative Humidity, Atmospheric Pressure, NDVI, Palmer Drought Severity Index.
 
 The preprocessing script (`Preprocess.py`) combines these into `combined_data.csv` (or `.xlsx` for modeling).
